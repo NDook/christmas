@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useEffect } from "react";
 import { getDate, getHours } from "../services/getTime";
 import useInterval from "../services/UseInterval";

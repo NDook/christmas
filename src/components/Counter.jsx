@@ -1,3 +1,5 @@
+import React from "react";
+
 import { useEffect, useState } from "react";
 import useInterval from "../services/UseInterval";
 import VideoPlay from "./VideoPlay";

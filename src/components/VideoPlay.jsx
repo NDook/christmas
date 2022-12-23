@@ -1,3 +1,5 @@
+import React from "react";
+
 import happyNewYear from "../assets/img/happyNewYear.mp4"
 import wait from "../assets/img/wait.mp4"
 
